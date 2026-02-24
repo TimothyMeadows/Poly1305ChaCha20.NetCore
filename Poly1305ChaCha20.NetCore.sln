@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poly1305ChaCha20.NetCore", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poly1305ChaCha20.NetCore.Examples", "Poly1305ChaCha20.NetCore.Examples\Poly1305ChaCha20.NetCore.Examples.csproj", "{C11FAFB6-084F-479B-9A32-BDA7A7524CCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poly1305ChaCha20.NetCore.Tests", "Poly1305ChaCha20.NetCore.Tests\Poly1305ChaCha20.NetCore.Tests.csproj", "{8A302375-2231-4B03-B4FB-4E1993E09B0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C11FAFB6-084F-479B-9A32-BDA7A7524CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C11FAFB6-084F-479B-9A32-BDA7A7524CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C11FAFB6-084F-479B-9A32-BDA7A7524CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A302375-2231-4B03-B4FB-4E1993E09B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A302375-2231-4B03-B4FB-4E1993E09B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A302375-2231-4B03-B4FB-4E1993E09B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A302375-2231-4B03-B4FB-4E1993E09B0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
